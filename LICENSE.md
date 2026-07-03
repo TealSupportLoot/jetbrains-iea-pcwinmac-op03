@@ -1,4 +1,4 @@
-# 
+# ذكي JetBrains IntelliJ IDEA إعدادات مسبقة لـ Mac OS | احترافي JetBrains IntelliJ IDEA إعدادات مسبقة لـ PC Windows. مع أدوات إعادة الهيكلة و فحص الصور — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
